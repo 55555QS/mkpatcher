@@ -3,10 +3,14 @@
         "Id": "412830",
         "GameTitle": "Steins;Gate",
         "GameSubtitle": "",
-        "State": "1",
+        "State": 0,
         "Version": "",
         "Desc": "",
-        "Files":[
+        "Download": "",
+        "Folders": [
+
+        ],
+        "Files": [
 
         ]
     },
@@ -14,11 +18,71 @@
         "Id": "825630",
         "GameTitle": "Steins;Gate 0",
         "GameSubtitle": "",
-        "State": "1",
+        "State": 1,
         "Version": "",
         "Desc": "",
         "Files":[
             
+        ]
+    },
+    {
+        "Id": "819030",
+        "GameTitle": "Steins;Gate Elite",
+        "GameSubtitle": "",
+        "State": 1,
+        "Version": "",
+        "Desc": "",
+        "Download": "",
+        "Folders": [
+
+        ],
+        "Files": [
+
+        ]
+    },
+    {
+        "Id": "930910",
+        "GameTitle": "Steins;Gate",
+        "GameSubtitle": "선형구속의 페노그램",
+        "State": 0,
+        "Version": "",
+        "Desc": "",
+        "Download": "",
+        "Folders": [
+
+        ],
+        "Files": [
+
+        ]
+    },
+    {
+        "Id": "970560",
+        "GameTitle": "Steins;Gate",
+        "GameSubtitle": "비익연리의 달링",
+        "State": 0,
+        "Version": "",
+        "Desc": "",
+        "Download": "",
+        "Folders": [
+
+        ],
+        "Files": [
+
+        ]
+    },
+    {
+        "Id": "1111390",
+        "GameTitle": "Robotics;Notes DaSH",
+        "GameSubtitle": "",
+        "State": 1,
+        "Version": "",
+        "Desc": "",
+        "Download": "",
+        "Folders": [
+
+        ],
+        "Files": [
+
         ]
     }
 ]
