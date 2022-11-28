@@ -5,11 +5,22 @@
         "GameSubtitle": "",
         "State": 0,
         "Version": "",
+        "Source": "",
         "Desc": "",
-        "Download": "",
-        "Folders": [
-
-        ],
+        "DownloadUrl": "",
+        "Files": [
+            
+        ]
+    },
+    {
+        "Id": "819030",
+        "GameTitle": "Steins;Gate Elite",
+        "GameSubtitle": "",
+        "State": 1,
+        "Version": "",
+        "Source": "",
+        "Desc": "",
+        "DownloadUrl": "",
         "Files": [
 
         ]
@@ -20,24 +31,11 @@
         "GameSubtitle": "",
         "State": 1,
         "Version": "",
+        "Source": "",
         "Desc": "",
+        "DownloadUrl": "",
         "Files":[
             
-        ]
-    },
-    {
-        "Id": "819030",
-        "GameTitle": "Steins;Gate Elite",
-        "GameSubtitle": "",
-        "State": 1,
-        "Version": "",
-        "Desc": "",
-        "Download": "",
-        "Folders": [
-
-        ],
-        "Files": [
-
         ]
     },
     {
@@ -46,11 +44,9 @@
         "GameSubtitle": "선형구속의 페노그램",
         "State": 0,
         "Version": "",
+        "Source": "",
         "Desc": "",
-        "Download": "",
-        "Folders": [
-
-        ],
+        "DownloadUrl": "",
         "Files": [
 
         ]
@@ -61,11 +57,9 @@
         "GameSubtitle": "비익연리의 달링",
         "State": 0,
         "Version": "",
+        "Source": "",
         "Desc": "",
-        "Download": "",
-        "Folders": [
-
-        ],
+        "DownloadUrl": "",
         "Files": [
 
         ]
@@ -76,11 +70,9 @@
         "GameSubtitle": "",
         "State": 1,
         "Version": "",
+        "Source": "",
         "Desc": "",
-        "Download": "",
-        "Folders": [
-
-        ],
+        "DownloadUrl": "",
         "Files": [
 
         ]
