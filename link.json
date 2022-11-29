@@ -110,13 +110,17 @@
         "GameTitle": "Robotics;Notes DaSH",
         "GameSubtitle": "",
         "Language": "english",
-        "State": 0,
-        "Version": "22-11-02",
+        "State": 1,
+        "Version": "V1.2.2",
         "Source": "https://gall.dcinside.com/m/steinsgate/51003",
         "Desc": "프로그램 겸 유지 보수 : shrimplord89\n총대 겸 번역 : T4KiNA\n그래픽 및 일러스트 수정 : 밤오반파\n번역 : nine, Ide0n, 브라이트, KJY\n\n\n[업데이트 로그]\n22.11.02 - 번역 및 띄어쓰기 오류 수정, 버그 수정, 조작방법 한글화 적용\n\n\n[주의 사항]\n게임 언어를 영어로 변경 후 패치해주세요.",
-        "DownloadUrl": "",
+        "DownloadUrl": "https://drive.google.com/uc?id=17Zeq76E-QllXXcpvLwOFBGTz8GprxmQW&export=download&confirm=t",
         "Files": [
-
+            "manual.cpk",
+            "mes01.cpk",
+            "system.cpk",
+            "bg.cpk",
+            "movie.cpk"
         ]
     }
 ]
