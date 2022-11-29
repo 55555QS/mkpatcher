@@ -26,7 +26,9 @@
         "Files": [
             "boot.bat",
             "Data\\script.cpk",
-            "Data\\system.cpk"
+            "Data\\system.cpk",
+            "Data\\movie.cpk",
+            "Data\\bg.cpk"
         ]
     },
     {
