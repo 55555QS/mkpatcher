@@ -23,7 +23,7 @@
         "State": 1,
         "Version": "22-03-19-1",
         "Source": "https://gall.dcinside.com/m/steinsgate/21059",
-        "Desc": "번역 및 패치제작 : RuTel / VELKA\n검수 : ESDEATH, mkell, AhnChaeHyeok, fufu, RuTel, VELKA, volg\n\n\n[업데이트 로그]\n22.03.19 - 일부 오타 및 줄바꿈 오류 수정\n22.03.15 - 핫픽스 : 루트 버그 수정\n22.03.12 - 일부 오타 및 오역 수정\n\n\n[주의 사항]\n1. 패치적용에는 약 15GB 이상의 여유공간이 필요합니다.\n2. 본 패치는 일본어판을 기준으로 합니다. 설치 시 일본어를 선택하시거나 언어를 변경해주세요.\n    (파일용량이 크기 때문에 언어변경 시 상당한 시간이 소요됩니다)\n3. 전 루트 검수를 했지만 혹시 모를 튕김이 있을 수 있습니다. 자동 퀵세이브 옵션을 켜시고  주기적으로 세이브하여 주시길 권장합니다. \n4. 메일 내용에 따라 자막이 빠르게 지나가는 구간이 있습니다. 이때는 로그를 통해 메일내용을 확인해주세요.",
+        "Desc": "번역 및 패치제작 : RuTel / VELKA\n검수 : ESDEATH, mkell, AhnChaeHyeok, fufu, RuTel, VELKA, volg\n\n\n[업데이트 로그]\n22.03.19 - 일부 오타 및 줄바꿈 오류 수정\n22.03.15 - 핫픽스 : 루트 버그 수정\n22.03.12 - 일부 오타 및 오역 수정\n\n\n[주의 사항]\n1. 패치적용에는 약 15GB 이상의 여유공간이 필요합니다.\n2. 본 패치는 일본어판을 기준으로 합니다. 설치 시 일본어를 선택하시거나 언어를 변경해주세요.\n    (파일용량이 크기 때문에 언어변경 시 상당한 시간이 소요됩니다)\n3. 전 루트 검수를 했지만 혹시 모를 튕김이 있을 수 있습니다. 자동 퀵세이브 옵션을 켜시고  주기적으로 세이브하여 주시길 권장합니다. \n4. 메일 내용에 따라 자막이 빠르게 지나가는 구간이 있습니다. 이때는 로그를 통해 메일내용을 확인해주세요.\n\n\n[팁]\n게임플레이 시 Tip을 획득하면 F4를 눌러 바로 확인가능합니다. 기타 단축키는 키보드 설정을 참고해주세요.\n앳채널에서 마우스 휠 또는 방향키 위 아래를 통해 스레를 읽을 수 있습니다.\n\n\n제보사항이 있으면 아래 메일로 스크린샷, 세이브 파일을 첨부하여 제보 부탁드립니다.\nstgate.elite@gmail.com",
         "DownloadUrl": "https://drive.google.com/u/0/uc?id=1IGB9fQN3LeUWUd9m3Ayl2FwHScB19UNV&export=download&confirm=t",
         "Files": [
             "boot.bat",
@@ -119,7 +119,7 @@
         "State": 1,
         "Version": "V1.2.2-1",
         "Source": "https://gall.dcinside.com/m/steinsgate/51003",
-        "Desc": "프로그램 겸 유지 보수 : shrimplord89\n총대 겸 번역 : T4KiNA\n그래픽 및 일러스트 수정 : 밤오반파\n번역 : nine, Ide0n, 브라이트, KJY\n\n\n[업데이트 로그]\n22.11.02 - 번역 및 띄어쓰기 오류 수정, 버그 수정, 조작방법 한글화 적용\n\n\n[주의 사항]\n게임 언어를 영어로 변경 후 패치해주세요.",
+        "Desc": "프로그램 겸 유지 보수 : shrimplord89\n총대 겸 번역 : T4KiNA\n그래픽 및 일러스트 수정 : 밤오반파\n번역 : nine, Ide0n, 브라이트, KJY\n\n\n[업데이트 로그]\n22.11.02 - 번역 및 띄어쓰기 오류 수정, 버그 수정, 조작방법 한글화 적용\n\n\n[주의 사항]\n게임 언어를 영어로 변경 후 패치해주세요.\n\n\n번역 상 오류, 띄어쓰기 문제 발견시 aisaka_p@naver.com 로 알려주세요. 여러분의 도움이 있어야 패치를 더욱 완성도 있게 만들 수 있습니다.",
         "DownloadUrl": "https://drive.google.com/u/0/uc?id=1AVu1A0by5WbgJ1uypyFxDb7pVGNWh5VF&export=download&confirm=t",
         "Files": [
             "manual.cpk",
